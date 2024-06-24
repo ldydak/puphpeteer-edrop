@@ -1,3 +1,14 @@
+06.2026: 
+querySelector fix in src/Puppeteer/ProcessDelegate.php
+
+add to composer:
+    "repositories": [
+        {
+            "type": "edrop",
+            "url": "https://github.com/ldydak/puphpeteer-edrop"
+        }
+    ],
+
 # PuPHPeteer
 
 <img src="https://user-images.githubusercontent.com/817508/100672192-dd258500-3361-11eb-845f-e8b5109752e4.png" style="max-width:100%;" width="190px" align="right">
