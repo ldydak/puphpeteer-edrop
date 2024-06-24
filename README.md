@@ -2,13 +2,19 @@
 querySelector fix in src/Puppeteer/ProcessDelegate.php
 
 add to composer:
+
+
     "repositories": [
         {
-            "type": "github",
+            "type": "vcs",
             "url": "https://github.com/ldydak/puphpeteer-edrop"
         }
     ],
 
+    "require-dev": {
+        ...
+        "zoon/puphpeteer": "dev-zoon"
+    },
 
 
 # PuPHPeteer
