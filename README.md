@@ -4,10 +4,12 @@ querySelector fix in src/Puppeteer/ProcessDelegate.php
 add to composer:
     "repositories": [
         {
-            "type": "edrop",
+            "type": "github",
             "url": "https://github.com/ldydak/puphpeteer-edrop"
         }
     ],
+
+
 
 # PuPHPeteer
 
